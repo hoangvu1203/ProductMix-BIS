@@ -1,0 +1,41 @@
+# Visual Studio temporary files, build results, and user options
+.vs/
+*.suo
+*.user
+
+# Build output folders
+bin/
+obj/
+
+# SSIS deployment artifacts
+*.ispac
+
+# SSDT cache and metadata
+*.jfm
+*.mdl
+
+# OS-generated files
+Thumbs.db
+*.log
+
+# Node modules (if any front-end components exist)
+node_modules/
+
+# Ignore Git metadata if nested repos exist
+.git/
+
+# Miscellaneous
+*.tmp
+.DS_Store
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+env/
+venv/
+*.env
+
+# --- Power BI ---
+# (Keep .pbix but ignore temp backups if any)
+*.pbix.backup
+

@@ -1,0 +1,11 @@
+# Data processing
+pandas>=1.3
+
+# Numerical computations
+numpy>=1.21
+
+# Machine learning (K-Means clustering)
+scikit-learn>=1.0
+
+# Plotting (if used for any charts or diagnostics)
+matplotlib>=3.4
